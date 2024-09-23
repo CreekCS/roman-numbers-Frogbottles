@@ -2,7 +2,7 @@
 //www.apluscompsci.com
 //Name - Yunhu Choi
 
-public class RomansIIRunner
+public class RomansRunner
 {
 	public static void main( String args[] )
 	{
